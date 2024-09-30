@@ -372,15 +372,6 @@ a {
     width: 200px;
 }
 
-.complemento-inicio .qr-code {
-    width: 80px;
-    opacity: .2;
-    transition: all .5s ease-in-out;
-}
-
-.qr-code:hover {
-    opacity: 1;
-}
 
 .sobre {
     background-color: var(--color-black);
