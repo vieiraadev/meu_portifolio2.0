@@ -24,4 +24,4 @@ JavaScript: Funcionalidades interativas.<br>
 ![image](https://github.com/user-attachments/assets/4b1db789-5ec6-4fe0-84f5-7f57ed5bde84)
 
 
-![image](https://github.com/user-attachments/assets/1f9b7318-93c6-4e28-b39e-7b58fc0c92a5)
+
